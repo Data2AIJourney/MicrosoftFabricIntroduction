@@ -76,3 +76,13 @@ Key Benefits
 - Fabric License or Trial
 - Basic understanding of SQL/Python/Power BI
 
+
+## Basic Setup
+- Login to app.Fabric.Microsoft.com
+- Complete the login information
+- Navigate to Workkspaces
+- Create a new workspace and associate with the Fabric Capacity
+
+*Inside your workspace is where we will be creating each of the necessary items for hte labs. Feel free to structure your workspace as needed with folders and how ever you would like to manage it.
+
+*There is also a SummerfestTech - Demo workspace with some examples to play aroudn with as well.  
