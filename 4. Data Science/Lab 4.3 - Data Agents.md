@@ -1,4 +1,4 @@
-#  IN PROGRESS
+
 ## 🎯 Objective
 
 Connect to Fabric data and leverage natural language to ask questions about the data.
