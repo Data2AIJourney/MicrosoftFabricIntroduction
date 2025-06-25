@@ -1,4 +1,4 @@
-#  IN PROGRESS
+
 ## 🎯 Objective
 Use the visual interface to clean and transform data before analysis or reporting.
 
